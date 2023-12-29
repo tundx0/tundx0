@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tundx0&label=Profile%20views&color=0e75b6&style=flat" alt="tundx0" /> </p>
 
-- 🌱 I’m currently learning **Solidity, Flask**
+- 🌱 I’m currently learning **Solidity, Rust, Go**
 
 - 📫 How to reach me **tundx0@gmail.com**
 
